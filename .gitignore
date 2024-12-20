@@ -1,3 +1,4 @@
 cnquery
 .DS_Store
 gha-creds-*.json
+vendor
